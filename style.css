@@ -1,0 +1,23 @@
+h1 {
+	color:red;  font-size:50px; border-style:solid; border-color:black; border-radius:10px; background-color:orange;
+}
+h3 {
+	color:Blue; font-size:30px; border-style:solid; border-color:red; border-radius:10px; background-color:green;
+}
+h4 {
+	color:pink; font-size:25px;  
+}
+
+a {
+	text-decoration: none; font-size:60px; color:Red; border-style:solid;  border-color:black;  border-radius:10px;
+}
+p { 
+	color:Yellow; font-size:13px; 
+}
+.center {
+	text-align:center; background-color:gray;
+}
+.right {
+	text-align:right; background-color:gray; 
+}
+ 
